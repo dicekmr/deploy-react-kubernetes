@@ -22,7 +22,7 @@ class App extends Component {
   render() {
     return (
       <div className="container">
-        <h1>Movie Finder</h1>
+        <h1>Movie Finder new2</h1>
         <InputSet />
         <List />
       </div>
